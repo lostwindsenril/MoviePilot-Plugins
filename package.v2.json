@@ -1,14 +1,15 @@
 {
-  "BrushFlowEnhanced": {
-    "name": "站点刷流增强版",
-    "description": "自动托管刷流，将会提高对应站点的访问频率。",
-    "labels": "刷流,仪表板",
-    "version": "1.0.0",
-    "icon": "brush.jpg",
-    "author": "shaohan",
-    "level": 2,
-    "history": {
-      "1.0.0": "init"
+    "BrushFlowEnhanced": {
+        "name": "站点刷流增强版",
+        "description": "自动托管刷流，将会提高对应站点的访问频率。",
+        "labels": "刷流,仪表板",
+        "version": "1.0.0",
+        "icon": "brush.jpg",
+        "author": "shaohan",
+        "level": 1,
+        "v2": true,
+        "history": {
+        "1.0.0": "init"
+        }
     }
-  }
 }
