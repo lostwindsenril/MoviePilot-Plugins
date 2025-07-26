@@ -275,7 +275,7 @@ class BrushFlowEnhanced(_PluginBase):
     # 插件作者
     plugin_author = "shaohan"
     # 作者主页
-    author_url = "https://github.com/InfinityPacer"
+    author_url = "https://github.com/lostwindsenril"
     # 插件配置项ID前缀
     plugin_config_prefix = "brushflowenhanced_"
     # 加载顺序
