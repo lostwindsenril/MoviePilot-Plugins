@@ -271,17 +271,17 @@ class BrushFlowEnhanced(_PluginBase):
     # 插件图标
     plugin_icon = "brush.jpg"
     # 插件版本
-    plugin_version = "9.9.9"
+    plugin_version = "1.0.0"
     # 插件作者
     plugin_author = "shaohan"
     # 作者主页
     author_url = "https://github.com/InfinityPacer"
     # 插件配置项ID前缀
-    plugin_config_prefix = "brushflow_enhanced_"
+    plugin_config_prefix = "brushflowenhanced_"
     # 加载顺序
     plugin_order = 22
     # 可使用的用户级别
-    auth_level = 1
+    auth_level = 2
 
     # 刷流配置
     _brush_config = None
